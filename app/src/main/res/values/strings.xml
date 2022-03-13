@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VitalDataSender</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="send_button">Send to PC</string>
+    <string name="text_hostname">Hostname/IP</string>
+    <string name="text_port">Port</string>
+    <string name="hello_world">Hello Square World!</string>
+</resources>
